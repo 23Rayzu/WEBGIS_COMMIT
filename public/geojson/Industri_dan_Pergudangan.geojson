@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Industri_dan_Pergudangan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KETERANGAN": "Industri kecil/rumah/tangga/UMKM" }, "geometry": { "type": "Point", "coordinates": [ 110.177779847075215, -7.548943755029416 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KETERANGAN": "Industri kecil/rumah/tangga/UMKM" }, "geometry": { "type": "Point", "coordinates": [ 110.173697831907944, -7.549764873617893 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KETERANGAN": "Industri kecil/rumah/tangga/UMKM" }, "geometry": { "type": "Point", "coordinates": [ 110.178854868925285, -7.553214158416142 ] } }
+]
+}
